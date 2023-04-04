@@ -1,0 +1,10 @@
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\obj\Debug\Tema1.csproj.AssemblyReference.cache
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\obj\Debug\Tema1.Form1.resources
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\bin\Debug\Tema1.exe.config
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\bin\Debug\Tema1.exe
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\bin\Debug\Tema1.pdb
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\obj\Debug\Tema1.exe
+C:\Users\weee\OneDrive\Radna površina\LFA\Tema1\obj\Debug\Tema1.pdb
